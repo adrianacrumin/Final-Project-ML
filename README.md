@@ -35,11 +35,11 @@ This project explores the emotional, thematic, and visual factors that influence
 
 - **IBM HR Analytics Employee Attrition Dataset**  
   Public dataset containing HR data and employee turnover information.  
-  [View Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+  [View Dataset](https://drive.google.com/file/d/1iPrPXTTtXMoBb5FfFp3P6dnijM9qrM_b/view?usp=drive_link)
 
 - **City of Austin Employee Dataset**  
   Public dataset listing compensation and employment information for City of Austin employees.  
-  [View Dataset](https://data.austintexas.gov/City-Government/City-Employee-Compensation/5fmi-ynp3)
+  [View Dataset](https://drive.google.com/drive/folders/1S1sc2-KqGlfMjDStZNN29O3srBx_4YFQ?usp=drive_link)
 
 - **Reddit Career Discussions Dataset**  
   A manually mined set of Reddit posts and comments discussing reasons for quitting jobs, scraped from multiple career-related subreddits.
