@@ -13,9 +13,11 @@ This project explores the emotional, thematic, and visual factors that influence
   
 - **Unstructured Data Analysis**
   - Reddit comment mining from career-related threads
+  - TeamBlind post mining from employee feedback discussions
   - Sentiment analysis using VADER and BERT
   - TF-IDF keyword extraction to surface dominant themes
   - Model comparison between rule-based and transformer-based sentiment detectors
+
 
 - **Visual Data Analysis**
   - Frame extraction from workplace-related videos
@@ -41,6 +43,18 @@ This project explores the emotional, thematic, and visual factors that influence
 
 - **Reddit Career Discussions Dataset**  
   A manually mined set of Reddit posts and comments discussing reasons for quitting jobs, scraped from multiple career-related subreddits.
+
+  - **TeamBlind Employee Feedback Data**  
+  Mined posts and discussions from the TeamBlind platform related to workplace dissatisfaction and quitting behavior.
+  
+---
+
+## Notebooks Included
+
+- `Project Notebook (Austin Retention Audit).ipynb` – Analysis of the City of Austin dataset
+- `Project Notebook (IBM).ipynb` – Analysis of IBM HR Analytics dataset
+- `Reddit_Analysis.ipynb` – NLP analysis of Reddit comments
+- `TeamBlind_Analysis.ipynb` – NLP analysis of TeamBlind posts
   
 ---
 
